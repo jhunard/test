@@ -1,0 +1,40 @@
+body {
+  background: #ccc;
+  padding: 0;
+  margin: 0;
+}
+#navbar {
+  display: none;
+}
+.main-container {
+  height: 700px;
+}
+
+.main-container p {
+  text-align: center;
+  color: #777;
+  font-size: 18px;
+}
+
+h1#example {
+  padding-top: 50px;
+  text-align: center;
+  color: #777;
+}
+
+h2#example2 {
+  text-align: center;
+  color: #777;
+}
+
+#footer {
+  font-family: sans-serif;
+}
+
+#plane1 {
+  opacity: 0;
+}
+
+.svglink {
+  opacity: 0;
+}
