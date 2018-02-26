@@ -1,3 +1,3 @@
-# test
-its just a testing
-Dont Mind THIS ONE!!!
+# Please see the Develop Branch
+i Just Compile the files and test how to push files using git
+ENJOY!
